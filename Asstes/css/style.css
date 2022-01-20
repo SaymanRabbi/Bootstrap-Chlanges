@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color:#FFFBF0;
+}
+#custom-text-secondry-color{
+    color: #363958;
+}
+.btn{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+   
+}
+#custom-text-secondry{
+    color: #3C3C3C;
+    font-size: 16px;
+}
